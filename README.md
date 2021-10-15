@@ -7,6 +7,8 @@
 
 可重新编写`com.github.changeche.flowable.service.impl`下的类，只需实现对应接口就可以了。
 
+集成后，项目可做普通http/rpc服务端对外提供服务。主要是利用`flowable-api`对审批流做一些操作。
+
 # 说明
 ## `biz`
 `biz`表示业务，可以替换为任意名称。
