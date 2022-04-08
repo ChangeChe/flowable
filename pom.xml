@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>2.3.2.RELEASE</spring-boot.version>
-        <flowable.version>6.7.0</flowable.version>
+        <flowable.version>6.7.2</flowable.version>
         <mybatis-spring-boot>2.2.0</mybatis-spring-boot>
         <druid-spring-boot>1.2.6</druid-spring-boot>
         <jwt.version>0.9.1</jwt.version>
